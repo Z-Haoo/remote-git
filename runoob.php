@@ -1,1 +1,3 @@
-echo "maser!"
+<<<<<<< HEAD
+echo "testing"
+>>>>>>> testing
